@@ -6,7 +6,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -17,7 +17,7 @@
          "name":"open_Bildungsurlaub",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -28,7 +28,7 @@
          "name":"open_Betriebsraete",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -38,6 +38,14 @@
          "height":34,
          "name":"open_Gesellschaftspolitik",
          "opacity":1,
+         "properties":
+            {
+             "opeWebsite":"l50.wohnopolis.de"
+            },
+         "propertytypes":
+            {
+             "opeWebsite":"string"
+            },
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -50,7 +58,7 @@
          "name":"open_BigBlueButton",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -61,7 +69,7 @@
          "name":"open_Skribbl.io",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -72,7 +80,7 @@
          "name":"open_Datenschutz",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -83,7 +91,7 @@
          "name":"open_FAQ BBB",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +102,7 @@
          "name":"open_Video Spuren NSU",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -105,7 +113,7 @@
          "name":"Raum der Stille",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -116,7 +124,7 @@
          "name":"Audio_Kaffeemaschine",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -127,7 +135,7 @@
          "name":"Audio_Voegel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -138,7 +146,7 @@
          "name":"Audio_Buero",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -149,7 +157,7 @@
          "name":"Audio_Arbeiter von Wien",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -160,7 +168,7 @@
          "name":"Jitsi Pausenraum",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -171,7 +179,7 @@
          "name":"Jitsi Outdoor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -182,7 +190,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -193,7 +201,7 @@
          "name":"window",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -204,7 +212,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -215,7 +223,7 @@
          "name":"overlay",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -226,7 +234,7 @@
          "name":"Flag",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -237,7 +245,7 @@
          "name":"Shadow",
          "opacity":0.699999988079071,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -248,7 +256,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -258,7 +266,7 @@
          "name":"Kachelebene 23",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
